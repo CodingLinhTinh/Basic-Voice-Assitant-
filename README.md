@@ -1,10 +1,10 @@
 # Basic-Voice-Assitant 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codinglinhtinh/Basic-Voice-Assitant?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/codinglinhtinh/Basic-Voice-Assitant?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/codinglinhtinh/Basic-Voice-Assitant?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/codinglinhtinh/Basic-Voice-Assitant?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/codinglinhtinh/Basic-Voice-Assitant?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/codinglinhtinh/Basic-Voice-Assitant-?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/codinglinhtinh/Basic-Voice-Assitant-?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/codinglinhtinh/Basic-Voice-Assitant-?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/codinglinhtinh/Basic-Voice-Assitant-?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/codinglinhtinh/Basic-Voice-Assitant-?style=for-the-badge)
 
 ## Description
 >Một Voice Assitant đơn giản.
